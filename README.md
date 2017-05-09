@@ -45,6 +45,7 @@ People may consider this the harder config, with a reflux-ish feel.
   * Holdout Bonus is not used.
 
 * You can only find one more set of pills outside of the saferoom.
+* Finite Hordes are disabled, returning the infinite horde events.
 
 * Special Infected
   * Quad Caps are enabled.
