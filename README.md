@@ -8,7 +8,7 @@ People may consider this the harder config, with a reflux-ish feel.
 - - - -
 ### Server Admins! ###
 
-**DISCLAIMER: Using the plugins provided with the download in other configs is at your own Risk as they're designed around ZoneMod and are likely to be unstable in other configs or general usage.**
+**DISCLAIMER: Using the plugins provided with the download in other configs is at your own Risk as they're designed around Apex and are likely to be unstable in other configs or general usage.**
 
 * Requirements:
   * Clean Servers:
@@ -19,10 +19,10 @@ People may consider this the harder config, with a reflux-ish feel.
 	* None, modify your matchmodes file to add the config to the Match menu and you're set. :)
 
 * Admin simplicity:
-  * To make sure none of your precious plugins get overwritten, all plugins have their seperate folder (optional/zonemod)
-    * If you have a prefered edition of a Plugin, you are able to simply replace the file in optional/zonemod.
-	* Make sure the Plugin you're overwriting doesn't have a feature added that's required for proper ZoneMod play!
-  * To make it easy for personal configuration for certain plugins, there's an added "server_preference.cfg" in the cfg/cfgogl/zonemod folder.
+  * To make sure none of your precious plugins get overwritten, all plugins have their seperate folder (optional/apex)
+    * If you have a prefered edition of a Plugin, you are able to simply replace the file in optional/apex.
+	* Make sure the Plugin you're overwriting doesn't have a feature added that's required for proper Apex play!
+  * To make it easy for personal configuration for certain plugins, there's an added "server_preference.cfg" in the cfg/cfgogl/apex folder.
     * This is to prevent Admins from messing with crucial variables.
 	* Keep in mind that this is a shared cfg, so it'll only contain shared cvars.
 	* These cfgs are very useful for Admins wanting to load 1v1~4v4 supported plugins on top of the Configs.
