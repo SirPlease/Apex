@@ -38,6 +38,8 @@ People may consider this the harder config, with a reflux-ish feel.
   * TickRateFixes now also fixes Slow Doors and Pistol Scripts, useful for use with other configs.
 	* Make sure you're not loading l4dpistoldelay if you're using this Plugin.
 	* Make sure you don't have any adjustments to prop_rotating and prop_rotating_checkpoint speeds in your cfg/stripper folder.
+  * Specrates is a useful plugin to reduce server load causes by spectators.
+    * This will send less updates to Spectators whilst maintaining a pleasant viewing experience.
 
 - - - -
 ### Gameplay / Balance Changes ###
@@ -55,6 +57,8 @@ People may consider this the harder config, with a reflux-ish feel.
 	* Speed is reset back to its default value (210, was 200)
   * Hunter
 	* You can now have a maximum of 2 Hunters at the same time.
+  * Jockey
+    * The Jockey can no longer be skeeted.
   * Spitter
 	* The Spitter has been removed.
 
@@ -66,6 +70,9 @@ People may consider this the harder config, with a reflux-ish feel.
   * All Silenced Uzis have been replaced by Smgs.
   * Reload Speed:
 	* Uzi: 1.82 (**Zonemod**: 1.74 - **Vanilla**: 2.23)
+  * Damage:
+	* Uzi: 22 (**Zonemod**: 21 - **Vanilla**: 20)
+	* Shotgun: 240 Total per shot. (**Zonemod**: 280 - **Vanilla**: 250)
   * Ammo:
 	* Shotgun: 8/120 (**Zonemod**: 8/96)
   * Spread:
