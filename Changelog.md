@@ -1,4 +1,4 @@
-###Changelog:###
+# Changelog: #
 
 * **v1.0.1**
   * Slight nerf to the Shotgun spread and range.
