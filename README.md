@@ -48,12 +48,13 @@ People may consider this the harder config, with a reflux-ish feel.
 
 * You can only find one more set of pills outside of the saferoom.
 * Finite Hordes are disabled, returning the infinite horde events.
+  * Infinite Hordes will be paused instantly during Tanks however.
 
 * Special Infected
   * Quad Caps are enabled.
   
   * Tanks
-	* Tanks can be slowed down upto a maximum of 20% by Uzis, Pistols, and Deagles.
+	* Tanks can be slowed down upto a maximum of 28% by Uzis, Pistols, and Deagles.
 	* Speed is reset back to its default value (210, was 200)
   * Hunter
 	* You can now have a maximum of 2 Hunters at the same time.
@@ -71,9 +72,15 @@ People may consider this the harder config, with a reflux-ish feel.
   * Reload Speed:
 	* Uzi: 1.82 (**Zonemod**: 1.74 - **Vanilla**: 2.23)
   * Damage:
-	* Uzi: 22 (**Zonemod**: 21 - **Vanilla**: 20)
-	* Shotgun: 240 Total per shot. (**Zonemod**: 280 - **Vanilla**: 250)
+	* Uzi: 20 (**Zonemod**: 21 - **Vanilla**: 20)
+	* Shotgun: 220 Total per shot. (**Zonemod**: 280 - **Vanilla**: 250)
+  * Tank Damage Multiplier:
+    * Uzi: 15% more damage on Tank.
   * Ammo:
 	* Shotgun: 8/120 (**Zonemod**: 8/96)
   * Spread:
 	* Pumpshotgun has reduced spread and decreased damage drop-off, making it a powerhouse again.
+	
+- - - -
+### Miscellaneous ###
+* The Starting Saferoom Door has been removed to prevent Survivors from using it as a shield, leaving them vulnerable.
