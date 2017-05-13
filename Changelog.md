@@ -1,8 +1,9 @@
-###Changelog:###
+# Changelog: #
 
 * **v1.0.1**
+  * A full shotgun blast now does 260 Damage instead of 280 (**ZoneMod:** 280 - **Vanilla:** 250)
   * Slight nerf to the Shotgun spread and range.
-  * Damage for Uzi's set to 22. (21 in Zonemod, 20 in Vanilla)
+  * Damage for Uzi's set to 22. (**ZoneMod:** 21 - **Vanilla:** 20)
 
 * **v1.0.2**
   * A damage nerf to the Shotgun (240 per Full Hit)
@@ -18,4 +19,3 @@
   * Increased Shotgun Bonus Damage Range on Common back to 100 (was 60)
   * Infinite Hordes will be paused instantly during Tanks.
   * The Starting Saferoom Door has been removed to prevent Survivors from using it as a shield, leaving them vulnerable.
-  
