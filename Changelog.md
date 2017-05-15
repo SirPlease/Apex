@@ -19,3 +19,11 @@
   * Increased Shotgun Bonus Damage Range on Common back to 100 (was 60)
   * Infinite Hordes will be paused instantly during Tanks.
   * The Starting Saferoom Door has been removed to prevent Survivors from using it as a shield, leaving them vulnerable.
+
+* **v1.0.4**
+  * Decreased Maximum amount of Common Infected from 30 to 25.
+  * Increased Maximum amount of Common Infected alive (no Boomer/horde) from 20 to 25.
+  * Removed the chance of Common Infected sitting or lying down.
+  * Removed the chance of Common Infected attacking eachother.
+  * Removed Female Boomer Spawns.
+  * Fixed the removed Saferoom Door blocking you from leaving on Dark Carnival Map 2 and Map 3 as well as The Passing Map 3.
