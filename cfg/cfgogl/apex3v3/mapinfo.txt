@@ -332,6 +332,8 @@
 		"start_extra_dist"  "0.000000"
 		"end_dist"          "75.000000"
 		"max_distance"      "600"
+		"tank_ban_flow_min" "55"
+		"tank_ban_flow_max" "80"
 	}
 	"c8m4_interior"
 	{
@@ -415,6 +417,8 @@
 		"end_point"         "1309.379883 -5479.276367 -26.821182"
 		"end_dist"          "324.451355"
 		"horde_limit"       "180"
+		"tank_ban_flow_min" "66"
+		"tank_ban_flow_max" "100"
 	}
 	"c10m5_houseboat"
 	{

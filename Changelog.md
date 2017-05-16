@@ -26,4 +26,11 @@
   * Removed the chance of Common Infected sitting or lying down.
   * Removed the chance of Common Infected attacking eachother.
   * Removed Female Boomer Spawns.
-  * Fixed the removed Saferoom Door blocking you from leaving on Dark Carnival Map 2 and Map 3 as well as The Passing Map 3.
+  * Fixed the removed Saferoom Door blocking you from leaving on Dark Carnival Map 2+3 and The Passing 3.
+  
+* **v.1.0.5**
+  * Fixed a Tank Spawn issue on No Mercy Map 3.
+  * Removed the Death Toll Map 4 Event Tank
+  * Shotguns have been set to 250 Damage per full shot, this will likely be the last change (Damage to Tank might be changed)
+  * Increased the Maximum amount of pills found outside the Saferoom to 2 (was 1)
+  * Increased the Maximum amount of Hunters to 3 (was 2)
