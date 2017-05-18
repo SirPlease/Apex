@@ -34,3 +34,10 @@
   * Shotguns have been set to 250 Damage per full shot, this will likely be the last change (Damage to Tank might be changed)
   * Increased the Maximum amount of pills found outside the Saferoom to 2 (was 1)
   * Increased the Maximum amount of Hunters to 3 (was 2)
+  
+* **v.1.0.6**
+  * Replaced the Director's method on deciding what SI the next spawn gets, with a Plugin.
+  - The plugin will properly give you spawns based on what died first.
+  - For example: if a Hunter dies first, he will be queued to spawn after the current queue has been spawned.
+  - The reason for this plugin is simply because the Director seemed to act a bit strange, granting several quads after eachother or boomer setups when you killed him last.
+  - **DO NOT** use the plugin in other configs, as it's not fully functional in every config as of yet.
