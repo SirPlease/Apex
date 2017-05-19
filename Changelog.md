@@ -47,3 +47,12 @@
     * Fixed Spectators affecting the Sack Order.
 	* Fixed Despawning affecting the Sack Order.
 	* Fixed the 2nd Team not having the same SI line-up for the first hit.
+	
+* **v1.0.7**
+  * Added a final Safecheck for the Sack Order plugin.
+  * Hunter Limit set back to a limit to 2.
+  * Uzi Slowdown decreased slightly.
+  * Maximum Tank slowdown decreased from 28% to 25%
+  * Lowered the SI Bot kick Delay to 3 (from 10)
+  * Due to popular demand, female boomers are back and now have a 50% chance of spawning instead of 25% (Vanilla)
+	* **EQUALITY**	
