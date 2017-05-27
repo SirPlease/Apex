@@ -67,5 +67,6 @@
   * Changed Max Common back to 30 (from 25)
   * Changed Horde per boomed Survivor to 10 (was 15)
   * Increased Maximum amount of Common Infected alive (no Boomer/horde) from 25 to 30 (Vanilla 20).
+  * Fixed Specrates not working as intended, due to a dependency.
   * !changelog  command directs to the actual Changelog.md file rather than the entire Config now.
   
