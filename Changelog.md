@@ -59,3 +59,13 @@
 * **v1.0.7T**
   * The Sack Order plugin still has a few issues that need to be worked out.
 	* This version is 1.0.7, but without the currently broken Sack Order plugin.
+
+* **v1.0.8**
+  * Sack Order Plugin is back after testing it thoroughly, everything should now be working as intended.
+	* This includes Spawns during Tank, no longer will you be getting the same SI after just throwing it away!
+  * Alarm Cars that were hit by other Tank Hittables will now have their Alarms disabled.
+  * Changed Max Common back to 30 (from 25)
+  * Changed Horde per boomed Survivor to 10 (was 15)
+  * Increased Maximum amount of Common Infected alive (no Boomer/horde) from 25 to 30 (Vanilla 20).
+  * !changelog  command directs to the actual Changelog.md file rather than the entire Config now.
+  

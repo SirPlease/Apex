@@ -46,15 +46,21 @@ People may consider this the harder config, with a reflux-ish feel.
 * Health Bonus is used instead of Hybrid DB+HB.
   * Holdout Bonus is not used.
 
+* Maximum amount of pills you can find outside the saferoom is 2.
+* Common Infected wandering in the background has been set to 30 (**Vanilla:** 20)
 * You can only find one more set of pills outside of the saferoom.
 * Finite Hordes are disabled, returning the infinite horde events.
   * Infinite Hordes will be paused instantly during Tanks however.
 
 * Special Infected
   * Quad Caps are enabled.
+  * Sack Order is now handled by a plugin, rather than the AI Director.
+	* This will keep the sack order working functioning properly at all times (Boomer dies 3rd or 4th, Quad Cap guaranteed)
+	* This prevents getting the same SI several times while the Tank is up.
+	* Do NOT use this plugin outside of Apex, it's in its early stages.
   
   * Tanks
-	* Tanks can be slowed down upto a maximum of 28% by Uzis, Pistols, and Deagles.
+	* Tanks can be slowed down upto a maximum of 25% by Uzis, Pistols, and Deagles.
 	* Speed is reset back to its default value (210, was 200)
   * Hunter
 	* You can now have a maximum of 2 Hunters at the same time.
@@ -62,6 +68,8 @@ People may consider this the harder config, with a reflux-ish feel.
     * The Jockey can no longer be skeeted.
   * Spitter
 	* The Spitter has been removed.
+  * Boomer
+    * The Boomer will now spawn 10 common infected per biled Survivor (was 15)
 
 * Melee Weapons
   * Melees are now all converted to pistols, ensuring you're always stocked on dualies whilst enjoying the sight of some floating/clipped pistol spawns.
@@ -73,7 +81,7 @@ People may consider this the harder config, with a reflux-ish feel.
 	* Uzi: 1.82 (**Zonemod**: 1.74 - **Vanilla**: 2.23)
   * Damage:
 	* Uzi: 20 (**Zonemod**: 21 - **Vanilla**: 20)
-	* Shotgun: 220 Total per shot. (**Zonemod**: 280 - **Vanilla**: 250)
+	* Shotgun: 250 Total per shot. (**Zonemod**: 280 - **Vanilla**: 250)
   * Tank Damage Multiplier:
     * Uzi: 15% more damage on Tank.
   * Ammo:
@@ -84,3 +92,7 @@ People may consider this the harder config, with a reflux-ish feel.
 - - - -
 ### Miscellaneous ###
 * The Starting Saferoom Door has been removed to prevent Survivors from using it as a shield, leaving them vulnerable.
+* Alarm cars will have their alarm turned off after a Tank punches another hittable against it.
+* Common Infected no longer lay down, sit, or fight eachother.
+* Lowered the SI Bot kick Delay to 3 (from 10)
+* The SI Sack Order now works properly, including mid-Tank fights.
