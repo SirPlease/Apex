@@ -95,4 +95,3 @@ People may consider this the harder config, with a reflux-ish feel.
 * Alarm cars will have their alarm turned off after a Tank punches another hittable against it.
 * Common Infected no longer lay down, sit, or fight eachother.
 * Lowered the SI Bot kick Delay to 3 (from 10)
-* The SI Sack Order now works properly, including mid-Tank fights.
