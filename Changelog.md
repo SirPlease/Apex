@@ -22,7 +22,7 @@
 
 * **v1.0.4**
   * Decreased Maximum amount of Common Infected from 30 to 25.
-  * Increased Maximum amount of Common Infected alive (no Boomer/horde) from 20 to 25.
+  * Increased Maximum amount of wandering Common Infected from 20 to 25.
   * Removed the chance of Common Infected sitting or lying down.
   * Removed the chance of Common Infected attacking eachother.
   * Removed Female Boomer Spawns.
@@ -64,7 +64,7 @@
   * Alarm Cars that were hit by other Tank Hittables will now have their Alarms disabled.
   * Changed Max Common back to 30 (from 25)
   * Changed Horde per boomed Survivor to 10 (was 15)
-  * Increased Maximum amount of Common Infected alive (no Boomer/horde) from 25 to 30 (Vanilla 20).
+  * Increased Maximum amount of wandering Common Infected (no Boomer/horde) from 25 to 30 (Vanilla 20).
   * Fixed Specrates not working as intended, due to a dependency.
   * !changelog  command directs to the actual Changelog.md file rather than the entire Config now.
   
@@ -75,7 +75,11 @@
 * **v1.0.9**
   * You can no longer shoot on Ladders in 2v2, 3v3 and 4v4 modes.
   * Changed Horde per boomed Survivor back to 15.
-  * Decreased Maximum amount of Common Infected alive down to 15 (was 30, Vanilla: 20)
-  -- Once a Tank switches to AI, event horde is able to Spawn.
-  -- Fixed SI for some reason not always being the same for the 2nd Team's first spawn.
+  * Decreased Maximum amount of wandering Common Infected down to 15 (was 30, **Vanilla:** 20)
+  * Event Hordes on 2v2,3v3 and 4v4 Configs will now build up the common infected queue on 50% speed, making it more rewarding to clear common fast.
+  * Once a Tank spawns during an Event, it will spawn a maximum of 30 common before stopping, rather than fully stopping immediately as in older versions.
+  * Once a Tank switches to AI, event horde will now resume.
+  * Tank's Health has been increased to 6300 in the 4v4 Configs.
+  * Shotgun has received a small range/spread buff, and a 10 dmg increase per full blast.
+  * Uzi now does 24 Damage per shot on Tank.
   
