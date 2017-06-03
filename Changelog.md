@@ -72,3 +72,10 @@
   * Hunters cannot be shoved at all, not even off of pounced Survivors.
   * Wallkicks are disabled on 1v1,2v2 and 3v3.
   
+* **v1.0.9**
+  * You can no longer shoot on Ladders in 2v2, 3v3 and 4v4 modes.
+  * Changed Horde per boomed Survivor back to 15.
+  * Decreased Maximum amount of Common Infected alive down to 15 (was 30, Vanilla: 20)
+  -- Once a Tank switches to AI, event horde is able to Spawn.
+  -- Fixed SI for some reason not always being the same for the 2nd Team's first spawn.
+  
