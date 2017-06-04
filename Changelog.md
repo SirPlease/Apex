@@ -69,8 +69,9 @@
   * !changelog  command directs to the actual Changelog.md file rather than the entire Config now.
   
 * **Addition of Apex Hunters 1v1,2v2,3v3 and 4v4**
-  * Hunters cannot be shoved at all, not even off of pounced Survivors.
-  * Wallkicks are disabled on 1v1,2v2 and 3v3.
+  * These Changes are only for the Apex Hunters matchmodes:
+	* Hunters cannot be shoved at all, not even off of pounced Survivors.
+	* Wallkicks are disabled on 1v1,2v2 and 3v3.
   
 * **v1.0.9**
   * You can no longer shoot on Ladders in 2v2, 3v3 and 4v4 modes.
@@ -82,4 +83,9 @@
   * Tank's Health has been increased to 6300 in the 4v4 Configs.
   * Shotgun has received a small range/spread buff, and a 10 dmg increase per full blast.
   * Uzi now does 24 Damage per shot on Tank.
+  
+* **v1.1.0**
+  * Added back shooting on the ladder, it might be disabled again in the future when tweaks are ready.
+  * Fixed not being able to go back past the choke because of the chair you'd clip through.
+  * More Event Horde tweaks, keep Event Hordes in mind, feedback on them would be much appreciated.
   
