@@ -86,6 +86,6 @@
   
 * **v1.1.0**
   * Added back shooting on the ladder, it might be disabled again in the future when tweaks are ready.
-  * Fixed not being able to go back past the choke because of the chair you'd clip through.
+  * Fixed not being able to go back past the choke on Dead Center 3 because of the chair you'd clip through.
   * More Event Horde tweaks, keep Event Hordes in mind, feedback on them would be much appreciated.
   
