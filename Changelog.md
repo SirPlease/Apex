@@ -89,3 +89,35 @@
   * Fixed not being able to go back past the choke on Dead Center 3 because of the chair you'd clip through.
   * More Event Horde tweaks, keep Event Hordes in mind, feedback on them would be much appreciated.
   
+* **v1.1.1**
+  * Fixed shooting on the ladder not actually being added back. What a silly derp of me.
+  * Fixed an issue causing the Tank being kicked/moved to spec every now and then.
+  * Smoker pulls can longer be cleared by shoves, either shoot the tongue or kill/shove the smoker.
+  * Hunters can no longer be shoved off, they need to be killed.
+  * Hunters can no longer be shoved whilst standing/jumping, their scratch damage has been reduced to 3 to balance this.
+  * Max Slowdown on Tanks has been decreased from "**25%**" to "**23%**".
+  * Max Friendly Fire per shot with the Shotgun has been increased from "**6**" to "**8**".
+  
+  * Added back Silenced Uzi and Chrome Shotgun.
+  * Weapons are being completely reworked starting this update, so expect possible imbalance between weapons, please give feedback! :)
+	* **Pump Shotgun:**
+	- Total Damage: 300.
+	- Range: Close to Medium Range.
+	- Spread: High.
+	* **Chrome Shotgun:**
+	- Total Damage: 256.
+	- Range: Medium to Long Range.
+	- Spread: Medium.
+	* **Uzi:**
+	- Damage: 20.
+	- Range: Long Range.
+	- Spread: Very Low.
+	- Reload Speed: 1.8 seconds.
+	- Slowdown on Tank: Yes.
+	* **Silenced Uzi:**
+	- Damage: 25.
+	- Range: Medium to Long Range.
+	- Spread: Low.
+	- Reload Speed: 2 seconds.
+	- Slowdown on Tank: No.
+  
